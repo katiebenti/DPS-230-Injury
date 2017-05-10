@@ -4,7 +4,7 @@ third copy of leaflet maps with google sheets
 ## live link
 
 Leaflet map https://katiebenti.github.io/DPS-230-Injury/
-Link to google sheets https://docs.google.com/spreadsheets/d/1LE5a9AiDpQaMEO0XqgtrDabckHZXA3JGL9jwhv8RIok/pubhtml
+Google sheets template https://docs.google.com/spreadsheets/d/1LE5a9AiDpQaMEO0XqgtrDabckHZXA3JGL9jwhv8RIok/pubhtml
 
 ## Create your own
 - See video with step-by-step tutorial in *Data Visualization for All* http://www.datavizforall.org/leaflet/with-google-sheets/
